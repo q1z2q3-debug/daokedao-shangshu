@@ -24,7 +24,7 @@ from site_css import CSS as BASE_CSS  # noqa: E402
 
 SITE = "https://q1z2q3-debug.github.io/daokedao-shangshu"
 VERSION = open(os.path.join(ROOT, "VERSION"), encoding="utf-8").read().strip()
-DATE = "2026-11-23"
+DATE = "2026-11-24"
 CFG = json.load(open(os.path.join(book, "chapters.json"), encoding="utf-8"))
 CH = CFG["chapters"]
 
