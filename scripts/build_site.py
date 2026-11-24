@@ -34,7 +34,7 @@ WRITTEN = [c for c in CH if os.path.exists(os.path.join(ROOT, c["file"]))]
 MISSING = [c for c in CH if c not in WRITTEN]
 STAGE_CN = "底本地基完成·正文 %d/%d" % (len(WRITTEN), TOTAL)
 # 阶段稿待办标（据 check_book：超短档上限、缺图）
-TODO_BADGE = {"SS11": "待压", "SS30": "待压·缺图", "SS18": "缺图", "SS19": "缺图"}
+TODO_BADGE = {}  # 欠账已清零；某篇再出现超档或缺图时，按实际回填
 
 SERIES = [
     ("道德经", "https://q1z2q3-debug.github.io/runze-daodejing/"),
