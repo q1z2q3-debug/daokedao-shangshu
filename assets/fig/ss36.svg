@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 256" role="img">
+<title>微子之命：封宋三步</title>
+<desc>稽古崇德象贤，践修祖猷建上公，屏王室世世作式</desc>
+<rect x="0" y="0" width="760" height="256" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">微子之命：封宋三步</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="139" y="142" font-size="16" fill="#994433" text-anchor="middle">稽古</text>
+<text x="139" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">崇德象贤，统承先王，修其礼物</text>
+<line x1="250" y1="148" x2="268" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="272" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="379" y="142" font-size="16" fill="#994433" text-anchor="middle">践修</text>
+<text x="379" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">恪慎克孝，令闻旧著，庸建上公尹东夏</text>
+<line x1="490" y1="148" x2="508" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="512" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="619" y="142" font-size="16" fill="#994433" text-anchor="middle">作式</text>
+<text x="619" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">律民绥位，毗助王室，世世享德万邦作式</text>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="230" font-size="12" fill="#7C6D5C" text-anchor="start">封立依据在德与贤；血统承祀为表，德行居位为里</text>
+</svg>
