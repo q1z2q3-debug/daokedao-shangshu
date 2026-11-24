@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "润泽说 道可道之尚书"
+message: "引用请注明版本与站点。"
+type: book
+authors:
+  - family-names: "润泽"
+    given-names: "Runze"
+version: 0.2.0
+date-released: 2026-11-23
+url: "https://q1z2q3-debug.github.io/daokedao-shangshu/"
+license: CC-BY-NC-SA-4.0

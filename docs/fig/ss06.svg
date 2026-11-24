@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 426" role="img">
+<title>九州矩阵（代表六州）</title>
+<desc>州 · 山川 · 田赋 · 贡物，同一口径填差异</desc>
+<rect x="0" y="0" width="760" height="426" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">九州矩阵（代表六州）</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<text x="203" y="84" font-size="12.5" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" text-anchor="middle">州</text>
+<line x1="128" y1="96" x2="128" y2="372" stroke="#DCD5C8"/>
+<text x="353" y="84" font-size="12.5" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" text-anchor="middle">山川</text>
+<line x1="278" y1="96" x2="278" y2="372" stroke="#DCD5C8"/>
+<text x="503" y="84" font-size="12.5" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" text-anchor="middle">田／赋</text>
+<line x1="428" y1="96" x2="428" y2="372" stroke="#DCD5C8"/>
+<text x="653" y="84" font-size="12.5" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" text-anchor="middle">贡物</text>
+<line x1="578" y1="96" x2="578" y2="372" stroke="#DCD5C8"/>
+<line x1="32" y1="96" x2="728" y2="96" stroke="#DCD5C8"/>
+<line x1="32" y1="142" x2="728" y2="142" stroke="#DCD5C8"/>
+<text x="38" y="123" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">冀州</text>
+<text x="203" y="123" font-size="12" fill="#25211D" text-anchor="middle">壶口梁岐，恒卫大陆</text>
+<text x="353" y="123" font-size="12" fill="#25211D" text-anchor="middle">田中中／赋上上错</text>
+<text x="503" y="123" font-size="12" fill="#25211D" text-anchor="middle">岛夷皮服</text>
+<line x1="32" y1="188" x2="728" y2="188" stroke="#DCD5C8"/>
+<text x="38" y="169" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">兖州</text>
+<text x="203" y="169" font-size="12" fill="#25211D" text-anchor="middle">九河雷夏，灉沮会同</text>
+<text x="353" y="169" font-size="12" fill="#25211D" text-anchor="middle">田中下／赋贞</text>
+<text x="503" y="169" font-size="12" fill="#25211D" text-anchor="middle">漆丝，篚织文</text>
+<line x1="32" y1="234" x2="728" y2="234" stroke="#DCD5C8"/>
+<text x="38" y="215" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">青州</text>
+<text x="203" y="215" font-size="12" fill="#25211D" text-anchor="middle">潍淄其道，海滨广斥</text>
+<text x="353" y="215" font-size="12" fill="#25211D" text-anchor="middle">田上下／赋中上</text>
+<text x="503" y="215" font-size="12" fill="#25211D" text-anchor="middle">盐絺海物，檿丝</text>
+<line x1="32" y1="280" x2="728" y2="280" stroke="#DCD5C8"/>
+<text x="38" y="261" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">扬州</text>
+<text x="203" y="261" font-size="12" fill="#25211D" text-anchor="middle">三江震泽，彭蠡阳鸟</text>
+<text x="353" y="261" font-size="12" fill="#25211D" text-anchor="middle">田下下／赋下上上错</text>
+<text x="503" y="261" font-size="12" fill="#25211D" text-anchor="middle">金三品，织贝橘柚</text>
+<line x1="32" y1="326" x2="728" y2="326" stroke="#DCD5C8"/>
+<text x="38" y="307" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">荆州</text>
+<text x="203" y="307" font-size="12" fill="#25211D" text-anchor="middle">江汉朝宗，九江沱潜</text>
+<text x="353" y="307" font-size="12" fill="#25211D" text-anchor="middle">田下中／赋上下</text>
+<text x="503" y="307" font-size="12" fill="#25211D" text-anchor="middle">羽毛齿革，菁茅大龟</text>
+<line x1="32" y1="372" x2="728" y2="372" stroke="#DCD5C8"/>
+<text x="38" y="353" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">雍州</text>
+<text x="203" y="353" font-size="12" fill="#25211D" text-anchor="middle">泾属渭汭，荆岐终南</text>
+<text x="353" y="353" font-size="12" fill="#25211D" text-anchor="middle">田上上／赋中下</text>
+<text x="503" y="353" font-size="12" fill="#25211D" text-anchor="middle">球琳琅玕</text>
+<text x="32" y="400" font-size="12" fill="#7C6D5C" text-anchor="start">看图看同列口径：差异即土宜，不强同</text>
+</svg>

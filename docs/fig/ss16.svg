@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 316" role="img">
+<title>敬与豫</title>
+<desc>复位之后的申诰</desc>
+<rect x="0" y="0" width="760" height="316" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">敬与豫</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="84" width="325" height="178" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="178" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="32" y="84" width="325" height="30" fill="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="30" fill="#DCD5C8"/>
+<text x="46" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">克敬克仁</text>
+<text x="417" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">豫怠自安</text>
+<text x="50" y="150" font-size="13" fill="#25211D" text-anchor="start">克敬惟亲</text><text x="50" y="176" font-size="13" fill="#25211D" text-anchor="start">怀于有仁</text><text x="50" y="202" font-size="13" fill="#25211D" text-anchor="start">享于克诚</text>
+<text x="421" y="150" font-size="13" fill="#25211D" text-anchor="start">无安厥位</text><text x="421" y="176" font-size="13" fill="#25211D" text-anchor="start">无时豫怠</text><text x="421" y="202" font-size="13" fill="#25211D" text-anchor="start">无轻民事</text>
+<line x1="367" y1="173" x2="391" y2="173" stroke="#7C6D5C" stroke-width="1" marker-end="url(#ar)"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="290" font-size="12" fill="#7C6D5C" text-anchor="start">看图看两栏对举：敬则兴，怠则亡</text>
+</svg>

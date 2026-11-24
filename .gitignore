@@ -1,0 +1,6 @@
+work/
+docs/_shots/
+__pycache__/
+*.pyc
+data/raw/
+*.zip
