@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v0.2.1 · 2026-11-24（阶段稿 · 九篇欠账清零）
+
+- SS11 仲虺之诰 2,879 → 2,499 字，压回短档上限以内；SS30 牧誓 2,615 → 2,500 字以内。
+- 补 ss18、ss19、ss30 三张义理图（figlib 六式，自检通过）。
+- 已成稿 9 篇全部通过 check_book（零 FAIL），页面「待压／缺图」提示全部撤除。
+- 版本六处同号至 v0.2.1（VERSION／README／CHANGELOG／CITATION／各篇与附录 front matter／站点页脚）。
+
 ## v0.2.0 · 2026-11-24（阶段稿 · 建仓与首次发布）
 
 - 首次建仓并开通 Pages（main:/docs）：https://q1z2q3-debug.github.io/daokedao-shangshu/
