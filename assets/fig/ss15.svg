@@ -1,19 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 256" role="img">
-<title>悔过复位</title>
-<desc>三篇一线的中段</desc>
-<rect x="0" y="0" width="760" height="256" fill="#FCFAF6"/>
-<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">悔过复位</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
-<rect x="32" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="139" y="142" font-size="16" fill="#994433" text-anchor="middle">归亳</text>
-<text x="139" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">冕服奉迎</text>
-<line x1="250" y1="148" x2="268" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
-<rect x="272" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="379" y="142" font-size="16" fill="#994433" text-anchor="middle">悔过</text>
-<text x="379" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">自作孽不可逭</text>
-<line x1="490" y1="148" x2="508" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
-<rect x="512" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="619" y="142" font-size="16" fill="#994433" text-anchor="middle">相戒</text>
-<text x="619" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">惠困穷、接下恭</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 343" role="img">
+<title>民与后：两端相须</title>
+<desc>民非后则无以相匡而生，后非民则无以辟四方：两端互为条件，君位不是私产。</desc>
+<rect x="0" y="0" width="760" height="343" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">民与后：两端相须</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="84" width="325" height="205" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="205" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="32" y="84" width="325" height="30" fill="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="30" fill="#DCD5C8"/>
+<text x="46" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">民　非　后</text>
+<text x="417" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">后　非　民</text>
+<text x="50" y="150" font-size="13" fill="#25211D" text-anchor="start">无君则无从相匡，生业难继</text><text x="50" y="176" font-size="13" fill="#25211D" text-anchor="start">「徯我后，后来无罚」</text><text x="50" y="202" font-size="13" fill="#25211D" text-anchor="start">所望在解困，不在恩赐</text><text x="50" y="228" font-size="13" fill="#25211D" text-anchor="start">君位由民而立，不由天授</text>
+<text x="421" y="150" font-size="13" fill="#25211D" text-anchor="start">无民则无以辟四方，位无所施</text><text x="421" y="176" font-size="13" fill="#25211D" text-anchor="start">民服其命，位才有凭据</text><text x="421" y="202" font-size="13" fill="#25211D" text-anchor="start">子惠困穷，众命乃服</text><text x="421" y="228" font-size="13" fill="#25211D" text-anchor="start">位由德立，不由力取</text>
+<line x1="367" y1="186" x2="391" y2="186" stroke="#7C6D5C" stroke-width="1" marker-end="url(#ar)"/>
 <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
-<text x="32" y="230" font-size="12" fill="#7C6D5C" text-anchor="start">看图看箭头：由过而悔，由悔而复</text>
+<text x="32" y="317" font-size="12" fill="#7C6D5C" text-anchor="start">两端相须：断一头，另一头也立不住。共同凭据是德，不是力。</text>
 </svg>
