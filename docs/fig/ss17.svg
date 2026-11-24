@@ -1,21 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 484" role="img">
-<title>咸有一德</title>
-<desc>伊尹告归之戒</desc>
+<title>五路收口：一</title>
+<desc>常德、天祐、民归、师善、终始，五条路各不相同，收口只有一个一。</desc>
 <rect x="0" y="0" width="760" height="484" fill="#FCFAF6"/>
-<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">咸有一德</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">五路收口：一</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
 <circle cx="380" cy="250" r="138" fill="none" stroke="#DCD5C8" stroke-width="1" stroke-dasharray="4 5"/>
 <circle cx="380" cy="112" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="380" y="117" font-size="13" fill="#994433" text-anchor="middle">一德</text>
-<text x="380" y="174" font-size="11" fill="#7C6D5C" text-anchor="middle">动罔不吉</text>
-<circle cx="518" cy="250" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="518" y="255" font-size="13" fill="#25211D" text-anchor="middle">二三</text>
-<text x="518" y="312" font-size="11" fill="#7C6D5C" text-anchor="middle">动罔不凶</text>
-<circle cx="380" cy="388" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="380" y="393" font-size="13" fill="#994433" text-anchor="middle">任官</text>
-<text x="380" y="450" font-size="11" fill="#7C6D5C" text-anchor="middle">惟贤材</text>
-<circle cx="242" cy="250" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
-<text x="242" y="255" font-size="13" fill="#25211D" text-anchor="middle">臣道</text>
-<text x="242" y="312" font-size="11" fill="#7C6D5C" text-anchor="middle">为德为民</text>
-<text x="380" y="256" font-size="15" fill="#25211D" text-anchor="middle">天命靡常 惟德是</text><text x="380" y="278" font-size="15" fill="#25211D" text-anchor="middle">辅</text>
-<text x="32" y="458" font-size="12" fill="#7C6D5C" text-anchor="start">看图看中心：一德为轴，四向环绕</text>
+<text x="380" y="117" font-size="13" fill="#994433" text-anchor="middle">常德保位</text>
+<text x="380" y="174" font-size="11" fill="#7C6D5C" text-anchor="middle">守德即守位</text>
+<circle cx="511" cy="207" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="511" y="212" font-size="13" fill="#25211D" text-anchor="middle">天祐一德</text>
+<text x="511" y="269" font-size="11" fill="#7C6D5C" text-anchor="middle">非天私我有商</text>
+<circle cx="461" cy="361" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="461" y="366" font-size="13" fill="#994433" text-anchor="middle">民归一德</text>
+<text x="461" y="423" font-size="11" fill="#7C6D5C" text-anchor="middle">非商求于下民</text>
+<circle cx="298" cy="361" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="298" y="366" font-size="13" fill="#25211D" text-anchor="middle">主善为师</text>
+<text x="298" y="423" font-size="11" fill="#7C6D5C" text-anchor="middle">师不固定</text>
+<circle cx="248" cy="207" r="38" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="248" y="212" font-size="13" fill="#994433" text-anchor="middle">终始惟一</text>
+<text x="248" y="269" font-size="11" fill="#7C6D5C" text-anchor="middle">不变处不变</text>
+<text x="380" y="256" font-size="15" fill="#25211D" text-anchor="middle">协于克一</text>
+<text x="32" y="458" font-size="12" fill="#7C6D5C" text-anchor="start">德惟一，动罔不吉　·　德二三，动罔不凶</text>
 </svg>

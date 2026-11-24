@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 369" role="img">
+<title>五喻各对其解</title>
+<desc>左栏五缺，右栏五用：君先认不足，辅才落得下。</desc>
+<rect x="0" y="0" width="760" height="369" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">五喻各对其解</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="84" width="325" height="231" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="231" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="32" y="84" width="325" height="30" fill="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="30" fill="#DCD5C8"/>
+<text x="46" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">君之所缺</text>
+<text x="417" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">臣之所用</text>
+<text x="50" y="150" font-size="13" fill="#25211D" text-anchor="start">金钝不锐</text><text x="50" y="176" font-size="13" fill="#25211D" text-anchor="start">巨川难济</text><text x="50" y="202" font-size="13" fill="#25211D" text-anchor="start">岁大旱无雨</text><text x="50" y="228" font-size="13" fill="#25211D" text-anchor="start">病深不服药</text><text x="50" y="255" font-size="13" fill="#25211D" text-anchor="start">跣行不看地</text>
+<text x="421" y="150" font-size="13" fill="#25211D" text-anchor="start">用汝作砺</text><text x="421" y="176" font-size="13" fill="#25211D" text-anchor="start">用汝作舟楫</text><text x="421" y="202" font-size="13" fill="#25211D" text-anchor="start">用汝作霖雨</text><text x="421" y="228" font-size="13" fill="#25211D" text-anchor="start">药须瞑眩</text><text x="421" y="255" font-size="13" fill="#25211D" text-anchor="start">跣须视地</text>
+<line x1="367" y1="199" x2="391" y2="199" stroke="#7C6D5C" stroke-width="1" marker-end="url(#ar)"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="343" font-size="12" fill="#7C6D5C" text-anchor="start">启乃心，沃朕心　·　木从绳则正，后从谏则圣</text>
+</svg>
