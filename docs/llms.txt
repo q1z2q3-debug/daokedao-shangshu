@@ -1,6 +1,6 @@
-# 润泽说 道可道之尚书 · 通释（阶段稿 v0.2.6）
+# 润泽说 道可道之尚书 · 通释（阶段稿 v0.2.7）
 
-> 《尚书》通释读本。**当前为阶段稿：正文 37/58 篇已成稿并发布，其余在建，未生成页面。**
+> 《尚书》通释读本。**当前为阶段稿：正文 40/58 篇已成稿并发布，其余在建，未生成页面。**
 > 底本《十三经注疏·尚书正义》通行本，58 篇经文已全部定稿（24,849 汉字，两轮逐字终校）。今文二十八篇为正经，古文二十五篇列存疑别录。
 > 正文每篇十二节：本篇导读、经文、字义与句读、今译、篇旨、注疏、分寸与边界、义理、时代之问、跨典、存疑、双卡与图；篇末附少年读。
 > 七件附录：总索引、篇目与今古文对照、古本与源流、校勘记、存疑录、关键字索引、篇旨表。
@@ -8,7 +8,7 @@
 ## 卷首
 - 序 · 前言：https://q1z2q3-debug.github.io/daokedao-shangshu/book.html
 
-## 已成稿篇（37）
+## 已成稿篇（40）
 - 第一篇｜尧典｜虞书｜正经｜原文 447 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss01.html
 - 第二篇｜舜典｜虞书｜正经｜原文 811 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss02.html
 - 第三篇｜大禹谟｜虞书｜存疑别录｜原文 869 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss03.html
@@ -32,6 +32,9 @@
 - 第二十一篇｜说命上｜商书｜存疑别录｜原文 252 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss21.html
 - 第二十二篇｜说命中｜商书｜存疑别录｜原文 229 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss22.html
 - 第二十三篇｜说命下｜商书｜存疑别录｜原文 280 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss23.html
+- 第二十四篇｜高宗肜日｜商书｜正经｜原文 83 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss24.html
+- 第二十五篇｜西伯戡黎｜商书｜正经｜原文 127 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss25.html
+- 第二十六篇｜微子｜商书｜正经｜原文 240 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss26.html
 - 第三十篇｜牧誓｜周书｜正经｜原文 249 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss30.html
 - 第三十一篇｜武成｜周书｜存疑别录｜原文 443 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss31.html
 - 第三十二篇｜洪范｜周书｜正经｜原文 1055 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss32.html
@@ -47,15 +50,15 @@
 - 第四十三篇｜无逸｜周书｜正经｜原文 598 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss43.html
 - 第四十五篇｜蔡仲之命｜周书｜存疑别录｜原文 252 字：https://q1z2q3-debug.github.io/daokedao-shangshu/ch/ss45.html
 
-## 在建篇（21，未生成页面）
-第二十四篇 高宗肜日、第二十五篇 西伯戡黎、第二十六篇 微子、第二十七篇 泰誓上、第二十八篇 泰誓中、第二十九篇 泰誓下、第四十一篇 洛诰、第四十四篇 君奭、第四十六篇 多方、第四十七篇 立政、第四十八篇 周官、第四十九篇 君陈、第五十篇 顾命、第五十一篇 康王之诰、第五十二篇 毕命、第五十三篇 君牙、第五十四篇 冏命、第五十五篇 吕刑、第五十六篇 文侯之命、第五十七篇 费誓、第五十八篇 秦誓
+## 在建篇（18，未生成页面）
+第二十七篇 泰誓上、第二十八篇 泰誓中、第二十九篇 泰誓下、第四十一篇 洛诰、第四十四篇 君奭、第四十六篇 多方、第四十七篇 立政、第四十八篇 周官、第四十九篇 君陈、第五十篇 顾命、第五十一篇 康王之诰、第五十二篇 毕命、第五十三篇 君牙、第五十四篇 冏命、第五十五篇 吕刑、第五十六篇 文侯之命、第五十七篇 费誓、第五十八篇 秦誓
 
 ## 已成稿附录
 - 附录一　篇目与今古文对照：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/01-duizhao.html
 - 附录二　古本与源流：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/02-yuanliu.html
 
 ## 引用
-润泽《润泽说 道可道之尚书》v0.2.6，https://q1z2q3-debug.github.io/daokedao-shangshu/
+润泽《润泽说 道可道之尚书》v0.2.7，https://q1z2q3-debug.github.io/daokedao-shangshu/
 
 ## 义理口径
 天命靡常，敬德保民：天命的凭据在德，德的可验处在民。稽古是问学不是复古。三才配位：天识、地色、人受想行。
