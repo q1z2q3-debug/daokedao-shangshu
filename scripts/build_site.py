@@ -34,7 +34,7 @@ WRITTEN = [c for c in CH if os.path.exists(os.path.join(ROOT, c["file"]))]
 MISSING = [c for c in CH if c not in WRITTEN]
 STAGE_CN = "底本地基完成·正文 %d/%d" % (len(WRITTEN), TOTAL)
 # 阶段稿待办标（据 check_book：超短档上限、缺图）
-TODO_BADGE = {"SS11": "待压", "SS30": "待压", "SS18": "缺图", "SS19": "缺图", "SS30": "缺图"}
+TODO_BADGE = {"SS11": "待压", "SS30": "待压·缺图", "SS18": "缺图", "SS19": "缺图"}
 
 SERIES = [
     ("道德经", "https://q1z2q3-debug.github.io/runze-daodejing/"),
@@ -206,9 +206,13 @@ def chapter_body(idx, ch):
     frag = md2html(open(src, encoding="utf-8").read())
     note = TODO_BADGE.get(ch["id"], "")
     if note:
-        frag = ('<p class="stage-note">阶段稿 · %s　本篇按阶段稿发布，尚未%s，'
-                '数据与结论不受影响。</p>' %
-                (STAGE_CN, "压回短档上限" if note == "待压" else "配义理图")) + frag
+        todo = []
+        if "待压" in note:
+            todo.append("压回短档上限（现超 2,500 字）")
+        if "缺图" in note:
+            todo.append("补配义理图")
+        frag = ('<p class="stage-note">阶段稿 · %s　本篇按阶段稿发布，尚欠%s；'
+                '经文、注疏与结论均不受影响。</p>' % (STAGE_CN, "、".join(todo))) + frag
     fig = fig_html(ch)
     if fig:
         frag = re.sub(r'(<h2[^>]*>少年读</h2>)', fig + r"\1", frag, count=1)
@@ -302,7 +306,8 @@ def toc_items():
                   else '<span class="badge">正经</span>')
             if c in WRITTEN:
                 todo = TODO_BADGE.get(c["id"], "")
-                td = '<span class="badge todo">%s</span>' % todo if todo in ("待压",) else ""
+                td = "".join('<span class="badge todo">%s</span>' % t
+                             for t in ("待压", "缺图") if t in todo)
                 fig = "" if c["id"] in TODO_BADGE and TODO_BADGE[c["id"]] != "缺图" else ""
                 out.append('<div class="item"><div class="no">%s　原文 %d 字</div>'
                            '<div class="t"><a href="%s" style="border:0;color:#25211D">%s　%s</a>%s%s</div>'
