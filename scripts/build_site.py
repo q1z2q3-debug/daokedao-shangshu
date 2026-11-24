@@ -30,7 +30,10 @@ CH = CFG["chapters"]
 
 # ---- 阶段模式：只按真实落盘的篇目出页，缺篇不生成空页、不给链接 ----
 TOTAL = len(CH)
-WRITTEN = [c for c in CH if os.path.exists(os.path.join(ROOT, c["file"]))]
+SKIP = set(x.strip() for x in os.environ.get("SKIP_IDS", "").split(",") if x.strip())
+WRITTEN = [c for c in CH if os.path.exists(os.path.join(ROOT, c["file"])) and c["id"] not in SKIP]
+if SKIP:
+    print("[skip] 未过检草稿不出页：", "、".join(sorted(SKIP)))
 MISSING = [c for c in CH if c not in WRITTEN]
 STAGE_CN = "底本地基完成·正文 %d/%d" % (len(WRITTEN), TOTAL)
 # 阶段稿待办标（据 check_book：超短档上限、缺图）
@@ -553,6 +556,12 @@ def build_meta(pages):
 
 def main():
     os.makedirs(docs, exist_ok=True)
+    # 清掉上一轮的篇页与图，避免已撤下的草稿留下残页
+    for sub, pat in ((os.path.join(docs, "ch"), ".html"), (os.path.join(docs, "fig"), ".svg")):
+        if os.path.isdir(sub):
+            for f in os.listdir(sub):
+                if f.endswith(pat):
+                    os.remove(os.path.join(sub, f))
     build_index()
     build_book()
     build_chapters()
