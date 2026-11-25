@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>附录三　校勘记（初编）｜润泽说 道可道之尚书附录</title>
-<meta name="description" content="校勘体例、已记异文异读十三目，以及待校清单。初编只收各篇存疑节已核之条，不补新说。">
+<title>附录三　校勘记（正编·底账）｜润泽说 道可道之尚书附录</title>
+<meta name="description" content="十五目异文异读逐条回底本定位，附底账 CSV 与两处新发现；外部校本比对仍待补。">
 <meta name="author" content="润泽">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta property="og:type" content="book">
-<meta property="og:title" content="附录三　校勘记（初编）｜润泽说 道可道之尚书附录">
-<meta property="og:description" content="校勘体例、已记异文异读十三目，以及待校清单。初编只收各篇存疑节已核之条，不补新说。">
+<meta property="og:title" content="附录三　校勘记（正编·底账）｜润泽说 道可道之尚书附录">
+<meta property="og:description" content="十五目异文异读逐条回底本定位，附底账 CSV 与两处新发现；外部校本比对仍待补。">
 <meta property="og:site_name" content="润泽说 道可道">
 <link rel="canonical" href="https://q1z2q3-debug.github.io/daokedao-shangshu/fu/03-jiaokan.html"><link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%0A%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2210%22%20fill%3D%22%23994433%22%2F%3E%0A%3Ctext%20x%3D%2232%22%20y%3D%2245%22%20font-size%3D%2240%22%20text-anchor%3D%22middle%22%20fill%3D%22%23F7F4EE%22%0Afont-family%3D%22%27Noto%20Serif%20SC%27%2C%27Songti%20SC%27%2Cserif%22%3E%E4%B9%A6%3C%2Ftext%3E%3C%2Fsvg%3E" type="image/svg+xml">
 <style>
@@ -183,116 +183,165 @@ figure.fig figcaption span{color:#9C8E7C;}
 </style>
 </head>
 <body>
-<div class="bar"><div><a href="../index.html">← 目录</a></div><div>润 泽 说 · 道 可 道 之 尚 书　附录三</div></div><div class="wrap"><h1 class="ch" id="附录三-校勘记初编">附录三　校勘记（初编）</h1>
-<h2 id="一-体例">一　体例</h2>
-<p>一、底本。《十三经注疏·尚书正义》通行本五十八篇，字句照录，不改标点。</p>
-<p>二、校本。初编所用校本只三种：旧题孔安国《传》所附释文、蔡沈《书集传》引文、孔颖达《正义》所存异说。凡校本与底本不同者，出注记异，不径改底本。</p>
-<p>三、取舍。底本可从者从底本；底本疑有讹脱而他本有据者，于注中说明，仍不改字。本书之例：宁存异文，不改经文。</p>
-<p>四、范围。初编只收各篇「存疑」节已核之条，共十三目；未核者不入，免以推测充校勘。</p>
-<h2 id="二-已记异文异读十三目">二　已记异文异读十三目</h2>
-<table>
+<div class="bar"><div><a href="../index.html">← 目录</a></div><div>润 泽 说 · 道 可 道 之 尚 书　附录三</div></div><div class="wrap"><h1 class="ch" id="附录三-校勘记正编底账">附录三　校勘记（正编·底账）</h1>
+<h2 id="一-何为底账">一　何为「底账」</h2>
+<p>初编只列异文，未逐条回底本核对。正编先把每条异文在底本中的位置坐实：原句照录、篇序对上、处置写明。底账落盘为
+<code>data/jiaokan-dizhang.csv</code>，七列（篇序、篇名、条目、底本原句、异文、本书处置、校核状态），可复算、可增补。这是正编的第一步：<strong>先有账，后有校</strong>。</p>
+<h2 id="二-底本与校本">二　底本与校本</h2>
+<p>底本：《十三经注疏·尚书正义》通行本五十八篇。校本三：旧题孔安国《传》附释文、蔡沈《书集传》引文、孔颖达《正义》所存异说。凡校本异于底本者记异，不径改底本。</p>
+<h2 id="三-十五目底账">三　十五目底账</h2>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th>篇</th>
 <th>条目</th>
+<th>底本原句</th>
 <th>异文与异读</th>
 <th>本书处置</th>
+<th>校核</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>第二十四篇·高宗肜日</td>
+<td>第24篇·高宗肜日</td>
 <td>「昵」之所指</td>
-<td>郑训祢庙，孔传训近亲</td>
-<td>两说并存，本书取郑说。</td>
+<td>典祀无丰于昵</td>
+<td>两说（祢庙／近亲）</td>
+<td>本书取郑说</td>
+<td>已定位</td>
 </tr>
 <tr class="even">
-<td>第三十二篇·洪范</td>
-<td>皇极「尊王之路」</td>
-<td>传世本「尊」或作「遵」；「哲」旧本或作「晢」；「僭忒」异体或作「僣」</td>
-<td>从底本，不擅改。</td>
+<td>第32篇·洪范</td>
+<td>皇极「遵／尊王之路」</td>
+<td>无有作恶，尊王之路</td>
+<td>底本三句，前二作「遵」，第三作「尊」，同段不一致</td>
+<td>照底本录，异文入账</td>
+<td>已定位</td>
 </tr>
 <tr class="odd">
-<td>第三十四篇·金縢</td>
+<td>第32篇·洪范</td>
+<td>「僭忒」与「僣」</td>
+<td>民用僭忒</td>
+<td>异体或作「僣」</td>
+<td>照底本</td>
+<td>已定位</td>
+</tr>
+<tr class="even">
+<td>第34篇·金縢</td>
 <td>「滕」与「縢」</td>
-<td>篇目多作「縢」，序与经作「滕」；「墠」字传本或脱</td>
-<td>照底本录，异文入账。</td>
+<td>周公作《金滕》</td>
+<td>篇目多作「縢」，序作「滕」</td>
+<td>照底本</td>
+<td>已定位</td>
 </tr>
-<tr class="even">
-<td>第三十五篇·大诰</td>
+<tr class="odd">
+<td>第35篇·大诰</td>
 <td>「予不敢于闭」句读</td>
-<td>源甲独立成句，源乙连读为「予不敢闭于天降威」</td>
-<td>本书从甲式，异文存疑。</td>
-</tr>
-<tr class="odd">
-<td>第三十五篇·大诰</td>
-<td>「已」「閟」「僭」用字</td>
-<td>「已」或作「巳」「己」；「閟」或作「閉」；「僭」异体或作「僣」</td>
-<td>照底本录，不擅改。</td>
+<td>予不敢于闭</td>
+<td>独立成句（本书）／连读「予不敢闭于天降威」</td>
+<td>从独立成句</td>
+<td>已定位</td>
 </tr>
 <tr class="even">
-<td>第三十七篇·康诰</td>
-<td>「弘于天」句读与异文</td>
+<td>第35篇·大诰</td>
+<td>「閟」与「閉」</td>
+<td>天閟毖我成功所</td>
+<td>或作「閉」</td>
+<td>照底本</td>
+<td>已定位</td>
+</tr>
+<tr class="odd">
+<td>第37篇·康诰</td>
+<td>「弘于天」句读</td>
+<td>弘于天，若德</td>
 <td>旧读或于「天若」断句；「弘」一作「宏」</td>
-<td>底本已订，不回改。</td>
-</tr>
-<tr class="odd">
-<td>第三十八篇·酒诰</td>
-<td>脱句与官名</td>
-<td>「王：封」脱「曰」，一本作「王曰：封」；「其」一作「岂」；「农父」一作「农夫」</td>
-<td>从底本，官名待核注疏。</td>
+<td>从底本断句</td>
+<td>已定位</td>
 </tr>
 <tr class="even">
-<td>第四十二篇·多士</td>
+<td>第38篇·酒诰</td>
+<td>「王：封」脱「曰」</td>
+<td>王：“封，予不惟若兹多诰</td>
+<td>底本确脱「曰」，一本作「王曰：封」</td>
+<td>照底本，注中记</td>
+<td>已定位</td>
+</tr>
+<tr class="odd">
+<td>第38篇·酒诰</td>
+<td>官名「农父」</td>
+<td>农父若保</td>
+<td>一作「农夫」；圻父、农父、宏父当司马司徒司空之属</td>
+<td>照底本，待核</td>
+<td>已定位</td>
+</tr>
+<tr class="even">
+<td>第42篇·多士</td>
 <td>「允罔固乱」</td>
-<td>或读「信诬罔、坚固为乱」，或分列诸目</td>
-<td>从孔、蔡一读。</td>
+<td>惟天不畀允罔固乱</td>
+<td>或分列诸目</td>
+<td>从孔、蔡一读</td>
+<td>已定位</td>
 </tr>
 <tr class="odd">
-<td>第四十二篇·多士</td>
+<td>第42篇·多士</td>
 <td>「上帝引逸」</td>
-<td>或训「引人以逸有节」，或训「长保逸豫」，义有正反</td>
-<td>从前说。</td>
+<td>上帝引逸</td>
+<td>两训义有正反</td>
+<td>从前说</td>
+<td>已定位</td>
 </tr>
 <tr class="even">
-<td>第四十六篇·多方</td>
+<td>第46篇·多方</td>
 <td>「因甲于内乱」</td>
-<td>「甲」一作「狎」、一作「钾」；或训「始」、或训「习」</td>
-<td>取「习」训。</td>
+<td>因甲于内乱</td>
+<td>「甲」一作「狎」、一作「钾」</td>
+<td>取「习」训</td>
+<td>已定位</td>
 </tr>
 <tr class="odd">
-<td>第四十六篇·多方</td>
+<td>第46篇·多方</td>
 <td>「不蠲烝」</td>
-<td>「烝」或训「进」、或训「祭」、或读「蒸」为众</td>
-<td>取「进、美」之义。</td>
+<td>图厥政不蠲烝</td>
+<td>「烝」或训进、祭、众</td>
+<td>取「进、美」</td>
+<td>已定位</td>
 </tr>
 <tr class="even">
-<td>第五十一篇·康王之诰</td>
-<td>「义嗣德答拜」两读</td>
-<td>一读「王义嗣德，答拜」，一读「义嗣」为「宜嗣」</td>
-<td>两读并存，大旨同。</td>
+<td>第51篇·康王之诰</td>
+<td>「义嗣德答拜」</td>
+<td>王义嗣，德答拜</td>
+<td>两读</td>
+<td>两读并存</td>
+<td>已定位</td>
 </tr>
 <tr class="odd">
-<td>第五十八篇·秦誓</td>
+<td>第58篇·秦誓</td>
 <td>「易辞」与「易怠」</td>
-<td>「俾君子易辞」一作「易怠」</td>
-<td>从「易辞」，与「巧言」相承。</td>
+<td>俾君子易辞</td>
+<td>一作「易怠」</td>
+<td>从「易辞」</td>
+<td>已定位</td>
 </tr>
 </tbody>
 </table>
-<h2 id="三-待校清单">三　待校清单</h2>
-<p>一、石经。唐开成石经《尚书》残石，可校经文用字，今未逐字比对。</p>
-<p>二、写本。敦煌所出《尚书》写本残卷、日本古写本，字句与传世本多有出入，须逐卷核对。</p>
-<p>三、注疏引文。《经典释文》所存六朝旧音与异文、孔颖达《正义》所引各家异说，尚未尽录。</p>
-<p>四、金文互证。西周册命铭文之用语（如「对扬王休」「拜稽首」）可与《顾命》《康王之诰》相参，此属史事互证，不入字句校勘。</p>
-<h2 id="四-说明">四　说明</h2>
-<p>校勘之难，不在找异文，在定取舍之据。本书取「不改经文」一例，理由简单：通释之书的首要责任，是让读者见到一个可读、可引、可核的本子；异文入注，读者自可循注见两本之别。日后若得石经、写本逐字比对，另出正编，不与初编相混。</p>
+<h2 id="四-两处新发现">四　两处新发现</h2>
+<p>一、<strong>《洪范》同段用字不一</strong>。底本「无有作好，遵王之道；无有作恶，尊王之路」，前二句作「遵」，第三句作「尊」。此非本书录入之误，底本如此；传世他本多作「遵」。同一段三句而用字两出，最可能是刊刻沿袭之迹。本书照底本录，于注记异，不改字。</p>
+<p>二、<strong>《酒诰》「王：封」确脱「曰」</strong>。底本作「王：『封，予不惟若兹多诰』」，与他本「王曰：封」相较，确脱一「曰」。此类脱字，若不改则读来突兀，若径改则失底本之真。本书取后者：照录，注中说明。</p>
+<h2 id="五-待校四项">五　待校四项</h2>
+<p>一、石经：唐开成石经《尚书》残石，可校经文用字，未逐字比对。</p>
+<p>二、写本：敦煌所出《尚书》写本残卷、日本古写本，字句与传世本多有出入，须逐卷核对。</p>
+<p>三、注疏引文：《经典释文》所存六朝旧音异文、孔颖达《正义》所引各家异说，尚未尽录。</p>
+<p>四、金文互证：西周册命铭文用语（「对扬王休」「拜稽首」）可与《顾命》《康王之诰》相参，属史事互证，不入字句校勘。</p>
+<h2 id="六-正编之限">六　正编之限</h2>
+<p>正编（底账）所能做的是「定位」，不能做的是「定案」。定案须见石经、写本原影，逐字比对；未见原影而先定案，是以推测充校勘。故本编止于底账，俟得原影，再出「校勘记·定本」。</p>
 <div class="pn"><div><a href="../index.html">← 目录</a></div><div class="mid"><a href="index.html">附录</a></div><div class="right"><a href="../ch/ss01.html">第一篇 →</a></div></div><div class="foot"><div>润泽说 道可道之尚书 · 附录　v0.3.0　（2026-11-24）</div><div>底本：《十三经注疏·尚书正义》通行本五十八篇　注参：蔡沈《书集传》</div></div></div>
 </body>
 </html>

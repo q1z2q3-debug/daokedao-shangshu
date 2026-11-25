@@ -75,7 +75,7 @@
 - 附录　总索引：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/index.html
 - 附录一　篇目与今古文对照：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/01-duizhao.html
 - 附录二　古本与源流：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/02-yuanliu.html
-- 附录三　校勘记（初编）：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/03-jiaokan.html
+- 附录三　校勘记（正编·底账）：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/03-jiaokan.html
 - 附录四　存疑录：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/04-cunyi.html
 - 附录五　关键字索引：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/05-suoyin.html
 - 附录六　五十八篇篇旨表：https://q1z2q3-debug.github.io/daokedao-shangshu/fu/06-pianzhi.html
