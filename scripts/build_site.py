@@ -400,6 +400,10 @@ def build_index():
 
 <h2>同系列<small>润泽说 · 道可道</small></h2>
 <div class="series-grid">%s</div>
+<h2>校勘工作面<small>可筛、可勾、可导出</small></h2>
+<div class="rows">
+  <div class="row"><div class="kk">校勘台</div><div class="vv"><a href="jiaokan.html">校勘台（七面板 · 四百二十九条）</a>　底账十五目、自校五十八篇、到影即核十五项、注疏异文三百九十九条、施工账与敦煌石经旁证，一页可筛可勾，进度存本机，已核清单可导出 CSV。</div></div>
+</div>
 <h2>离线与移动<small>随身读，不联网也全</small></h2>
 <div class="rows">
   <div class="row"><div class="kk">Android</div><div class="vv"><a href="dl/shangshu-v0.3.0.apk">尚書 APK（510 KB）</a>　WebView 离线壳，装后开卷即读；内容为全書五十八篇与七件附录，不取网络。</div></div>

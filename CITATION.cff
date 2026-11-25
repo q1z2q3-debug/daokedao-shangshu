@@ -5,7 +5,7 @@ type: book
 authors:
   - family-names: "润泽"
     given-names: "Runze"
-version: 0.3.7
+version: 0.3.8
 date-released: 2026-11-23
 url: "https://q1z2q3-debug.github.io/daokedao-shangshu/"
 license: CC-BY-NC-SA-4.0
