@@ -1,3 +1,9 @@
+## v0.3.1 · 2026-11-25（成书后三件：APK、分发、校勘正编）
+
+- 校勘记由「初编」升「正编·底账」：十五目异文逐条回底本定位（CSV 落盘 `data/jiaokan-dizhang.csv`），全书每句原样对勘无一条落空。新发现两处：《洪范》同段「遵／尊」用字两出（底本如此，非录入之误）；《酒诰》「王：封」底本确脱「曰」。
+- Android 离线版：GitHub Actions 出 debug APK（510 KB，WebView 壳＋全書 HTML），CI `build-apk` 通过；本地产物与站点同源 `docs/dl/shangshu-v0.3.0.apk`。
+- 全書单文件离线版挂站：`docs/dl/shangshu-offline.html`（1.3 MB，零外链）。
+- 站点首页增「离线与移动」一栏，两件直链。
 # CHANGELOG
 
 ## v0.3.0 · 2026-11-25（成书版 · 附录七件齐，58/58＋图 58＋附录 7/7）
