@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 343" role="img">
+<title>一往一还：诸侯之礼与王者之答</title>
+<desc>《康王之诰》应门之朝：诸侯自外而入，王自内而答；来者奉礼与戒，往者答拜与反丧。</desc>
+<rect x="0" y="0" width="760" height="343" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">一往一还：诸侯之礼与王者之答</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="84" width="325" height="205" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="205" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="32" y="84" width="325" height="30" fill="#DCD5C8"/>
+<rect x="403" y="84" width="325" height="30" fill="#DCD5C8"/>
+<text x="46" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">诸侯之礼</text>
+<text x="417" y="105" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">王者之答</text>
+<text x="50" y="150" font-size="13" fill="#25211D" text-anchor="start">入应门左／右：太保率西，毕公率东</text><text x="50" y="176" font-size="13" fill="#25211D" text-anchor="start">奉圭兼币：「敢执壤奠」</text><text x="50" y="202" font-size="13" fill="#25211D" text-anchor="start">再拜稽首，以礼为敬</text><text x="50" y="228" font-size="13" fill="#25211D" text-anchor="start">进戒二句：张皇六师，无坏祖命</text>
+<text x="421" y="150" font-size="13" fill="#25211D" text-anchor="start">义嗣德答拜：受贺不居尊</text><text x="421" y="176" font-size="13" fill="#25211D" text-anchor="start">报诰：述文武之受命</text><text x="421" y="202" font-size="13" fill="#25211D" text-anchor="start">「身在外，心罔不在王室」</text><text x="421" y="228" font-size="13" fill="#25211D" text-anchor="start">释冕反丧服：礼毕而哀不除</text>
+<line x1="367" y1="186" x2="391" y2="186" stroke="#7C6D5C" stroke-width="1" marker-end="url(#ar)"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="317" font-size="12" fill="#7C6D5C" text-anchor="start">左为来，右为往；左末为戒，右末为反丧——一进一退，分寸乃见。</text>
+</svg>
