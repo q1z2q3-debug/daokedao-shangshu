@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 256" role="img">
+<title>治殷三段：慎始、和中、成终</title>
+<desc>《毕命》之诰，承周公、君陈而收其成：三段各有一动词，动词即治法。</desc>
+<rect x="0" y="0" width="760" height="256" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">治殷三段：慎始、和中、成终</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="139" y="142" font-size="16" fill="#994433" text-anchor="middle">慎始 · 周公</text>
+<text x="139" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">毖殷顽民</text><text x="139" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">迁于洛邑</text>
+<line x1="250" y1="148" x2="268" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="272" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="379" y="142" font-size="16" fill="#994433" text-anchor="middle">和中 · 君陈</text>
+<text x="379" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">和其中</text><text x="379" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">宽以和之</text>
+<line x1="490" y1="148" x2="508" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="512" y="100" width="214" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="619" y="142" font-size="16" fill="#994433" text-anchor="middle">成终 · 毕公</text>
+<text x="619" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">旌别淑慝</text><text x="619" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">表厥宅里</text>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="230" font-size="12" fill="#7C6D5C" text-anchor="start">三纪三十六年，世变风移；其要在「不刚不柔，厥德允修」。</text>
+</svg>
