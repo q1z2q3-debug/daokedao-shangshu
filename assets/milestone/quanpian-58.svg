@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1868 574" role="img">
+<title>五十八篇全量板</title>
+<desc>《润泽说 道可道之尚书》五十八篇正文与义理图齐备总图，按虞夏商周四卷分组，朱题为古文、墨题为今文。</desc>
+<rect x="0" y="0" width="1868" height="574" fill="#FCFAF6"/>
+<text x="40" y="58" font-size="24" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="3">润泽说　道可道之尚书　五十八篇全量板</text>
+<line x1="40" y1="76" x2="1828" y2="76" stroke="#DCD5C8"/>
+<text x="40" y="104" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="1">五十八篇正文与义理图齐备（v0.2.15 · 58/58）　朱题为古文，墨题为今文；每格左为篇序，右为篇题</text>
+<text x="40" y="146" font-size="16" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">虞书　5篇</text>
+<line x1="40" y1="158" x2="448" y2="158" stroke="#DCD5C8"/>
+<rect x="40" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="49" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">01</text>
+<text x="74" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">尧典</text>
+<rect x="144" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="153" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">02</text>
+<text x="178" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">舜典</text>
+<rect x="248" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="257" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">03</text>
+<text x="282" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">大禹谟</text>
+<rect x="352" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="361" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">04</text>
+<text x="386" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">皋陶谟</text>
+<rect x="40" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="49" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">05</text>
+<text x="74" y="243" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">益稷</text>
+<text x="500" y="146" font-size="16" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">夏书　4篇</text>
+<line x1="500" y1="158" x2="908" y2="158" stroke="#DCD5C8"/>
+<rect x="500" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="509" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">06</text>
+<text x="534" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">禹贡</text>
+<rect x="604" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="613" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">07</text>
+<text x="638" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">甘誓</text>
+<rect x="708" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="717" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">08</text>
+<text x="742" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">五子之歌</text>
+<rect x="812" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="821" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">09</text>
+<text x="846" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">胤征</text>
+<text x="960" y="146" font-size="16" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">商书　17篇</text>
+<line x1="960" y1="158" x2="1368" y2="158" stroke="#DCD5C8"/>
+<rect x="960" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="969" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">10</text>
+<text x="994" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">汤誓</text>
+<rect x="1064" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1073" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">11</text>
+<text x="1098" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">仲虺之诰</text>
+<rect x="1168" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1177" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">12</text>
+<text x="1202" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">汤诰</text>
+<rect x="1272" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1281" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">13</text>
+<text x="1306" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">伊训</text>
+<rect x="960" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="969" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">14</text>
+<text x="994" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">太甲上</text>
+<rect x="1064" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1073" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">15</text>
+<text x="1098" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">太甲中</text>
+<rect x="1168" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1177" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">16</text>
+<text x="1202" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">太甲下</text>
+<rect x="1272" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1281" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">17</text>
+<text x="1306" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">咸有一德</text>
+<rect x="960" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="969" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">18</text>
+<text x="994" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">盘庚上</text>
+<rect x="1064" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1073" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">19</text>
+<text x="1098" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">盘庚中</text>
+<rect x="1168" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1177" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">20</text>
+<text x="1202" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">盘庚下</text>
+<rect x="1272" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1281" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">21</text>
+<text x="1306" y="291" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">说命上</text>
+<rect x="960" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="969" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">22</text>
+<text x="994" y="339" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">说命中</text>
+<rect x="1064" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1073" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">23</text>
+<text x="1098" y="339" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">说命下</text>
+<rect x="1168" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1177" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">24</text>
+<text x="1202" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">高宗肜日</text>
+<rect x="1272" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1281" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">25</text>
+<text x="1306" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">西伯戡黎</text>
+<rect x="960" y="362" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="969" y="387" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">26</text>
+<text x="994" y="387" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">微子</text>
+<text x="1420" y="146" font-size="16" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">周书　32篇</text>
+<line x1="1420" y1="158" x2="1828" y2="158" stroke="#DCD5C8"/>
+<rect x="1420" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">27</text>
+<text x="1454" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">泰誓上</text>
+<rect x="1524" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">28</text>
+<text x="1558" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">泰誓中</text>
+<rect x="1628" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">29</text>
+<text x="1662" y="195" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">泰誓下</text>
+<rect x="1732" y="170" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="195" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">30</text>
+<text x="1766" y="195" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">牧誓</text>
+<rect x="1420" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">31</text>
+<text x="1454" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">武成</text>
+<rect x="1524" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">32</text>
+<text x="1558" y="243" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">洪范</text>
+<rect x="1628" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">33</text>
+<text x="1662" y="243" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">旅獒</text>
+<rect x="1732" y="218" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="243" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">34</text>
+<text x="1766" y="243" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">金縢</text>
+<rect x="1420" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">35</text>
+<text x="1454" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">大诰</text>
+<rect x="1524" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">36</text>
+<text x="1558" y="291" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">微子之命</text>
+<rect x="1628" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">37</text>
+<text x="1662" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">康诰</text>
+<rect x="1732" y="266" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="291" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">38</text>
+<text x="1766" y="291" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">酒诰</text>
+<rect x="1420" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">39</text>
+<text x="1454" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">梓材</text>
+<rect x="1524" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">40</text>
+<text x="1558" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">召诰</text>
+<rect x="1628" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">41</text>
+<text x="1662" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">洛诰</text>
+<rect x="1732" y="314" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="339" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">42</text>
+<text x="1766" y="339" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">多士</text>
+<rect x="1420" y="362" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="387" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">43</text>
+<text x="1454" y="387" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">无逸</text>
+<rect x="1524" y="362" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="387" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">44</text>
+<text x="1558" y="387" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">君奭</text>
+<rect x="1628" y="362" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="387" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">45</text>
+<text x="1662" y="387" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">蔡仲之命</text>
+<rect x="1732" y="362" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="387" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">46</text>
+<text x="1766" y="387" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">多方</text>
+<rect x="1420" y="410" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="435" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">47</text>
+<text x="1454" y="435" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">立政</text>
+<rect x="1524" y="410" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="435" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">48</text>
+<text x="1558" y="435" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">周官</text>
+<rect x="1628" y="410" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="435" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">49</text>
+<text x="1662" y="435" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">君陈</text>
+<rect x="1732" y="410" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="435" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">50</text>
+<text x="1766" y="435" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">顾命</text>
+<rect x="1420" y="458" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="483" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">51</text>
+<text x="1454" y="483" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">康王之诰</text>
+<rect x="1524" y="458" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="483" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">52</text>
+<text x="1558" y="483" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">毕命</text>
+<rect x="1628" y="458" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="483" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">53</text>
+<text x="1662" y="483" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">君牙</text>
+<rect x="1732" y="458" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="483" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">54</text>
+<text x="1766" y="483" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">冏命</text>
+<rect x="1420" y="506" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1429" y="531" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">55</text>
+<text x="1454" y="531" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">吕刑</text>
+<rect x="1524" y="506" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1533" y="531" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">56</text>
+<text x="1558" y="531" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">文侯之命</text>
+<rect x="1628" y="506" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1637" y="531" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">57</text>
+<text x="1662" y="531" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">费誓</text>
+<rect x="1732" y="506" width="96" height="40" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="1741" y="531" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">58</text>
+<text x="1766" y="531" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">秦誓</text>
+<text x="40" y="552" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">卷次：虞书五　夏书四　商书十七　周书三十二　｜　站点 q1z2q3-debug.github.io/daokedao-shangshu</text>
+</svg>
