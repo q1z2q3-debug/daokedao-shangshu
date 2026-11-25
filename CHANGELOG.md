@@ -1,3 +1,10 @@
+## v0.3.8 · 2026-11-25（追加：APK 升包，校勘台同包）
+
+- `dist/apk-shangshu` 资产重建：`assets/index.html` 换为 v0.3.8 阅读版（1.34 MB，58 篇 + 七附录，SVG 全内联），新增 `assets/jiaokan.html`（250 KB，七面板 429 核记位）。
+- 工程 `versionCode 8 / versionName '0.3.8'`；CI 产物改 `道可道之尚书-v0.3.8.apk`（571,531 字节，SHA256 `5ee2c827…`）。
+- 新增 `scripts/build_apk_assets.py`：从 `docs/book-full.html` 与 `docs/jiaokan.html` 一键装包，首页右下角加固定「校勘台」入口，台内站链改包内链。
+- 站点：`docs/dl/shangshu-v0.3.8.apk` 上线，首页 APK 行改指新包并明示含校勘台；`docs/dl/shangshu-offline.html` 同步为 v0.3.8。
+
 ## v0.3.8 · 2026-11-25（校勘台：注疏异文入账、七面板工作面）
 
 - 新增 `scripts/extract_zhushu.py`：自五十八篇「注疏／分寸」节与脚注按异文异读异训词抽取，滤散文噪声，得 **399 条 / 58 篇**，四类分列（异文、异读、异训、异说）。
