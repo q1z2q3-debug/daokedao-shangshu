@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 256" role="img">
+<title>狱之四层：辞、刑、罚、过</title>
+<desc>《吕刑》断狱之序：四层逐级降等，核不过乃降；宁可失之宽，不可失之冤。</desc>
+<rect x="0" y="0" width="760" height="256" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">狱之四层：辞、刑、罚、过</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="100" width="154" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="109" y="142" font-size="16" fill="#994433" text-anchor="middle">一 听辞</text>
+<text x="109" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">两造具备</text><text x="109" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">师听五辞</text>
+<line x1="190" y1="148" x2="208" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="212" y="100" width="154" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="289" y="142" font-size="16" fill="#994433" text-anchor="middle">二 正刑</text>
+<text x="289" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">五辞简孚</text><text x="289" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">正于五刑</text>
+<line x1="370" y1="148" x2="388" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="392" y="100" width="154" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="469" y="142" font-size="16" fill="#994433" text-anchor="middle">三 降罚</text>
+<text x="469" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">五刑不简</text><text x="469" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">正于五罚</text>
+<line x1="550" y1="148" x2="568" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="572" y="100" width="154" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="649" y="142" font-size="16" fill="#994433" text-anchor="middle">四 察过</text>
+<text x="649" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">五罚不服</text><text x="649" y="189" font-size="12" fill="#7C6D5C" text-anchor="middle">正于五过</text>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="230" font-size="12" fill="#7C6D5C" text-anchor="start">疑则赦，赦则赎；五过之疵，其罪惟均。</text>
+</svg>
