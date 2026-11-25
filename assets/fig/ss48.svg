@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 382" role="img">
+<title>周官三层：道、事、箴</title>
+<desc>公孤论道、六卿分事、官箴律人；位分三层，事分六职，人守六箴。</desc>
+<rect x="0" y="0" width="760" height="382" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">周官三层：道、事、箴</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="92" width="218" height="234" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="32" y="92" width="218" height="30" fill="#DCD5C8"/>
+<text x="46" y="113" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">三公三孤</text>
+<text x="48" y="150" font-size="13" fill="#25211D" text-anchor="start">三公：论道经邦</text><text x="48" y="175" font-size="13" fill="#25211D" text-anchor="start">三公：燮理阴阳</text><text x="48" y="200" font-size="13" fill="#25211D" text-anchor="start">三孤：贰公弘化</text><text x="48" y="225" font-size="13" fill="#25211D" text-anchor="start">三孤：寅亮天地</text><text x="48" y="250" font-size="13" fill="#25211D" text-anchor="start">弼予一人</text><text x="48" y="275" font-size="13" fill="#25211D" text-anchor="start">官不必备，惟其人</text>
+<rect x="270" y="92" width="218" height="234" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="270" y="92" width="218" height="30" fill="#DCD5C8"/>
+<text x="284" y="113" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">六卿分职</text>
+<text x="286" y="150" font-size="13" fill="#25211D" text-anchor="start">冢宰：治—统百官</text><text x="286" y="175" font-size="13" fill="#25211D" text-anchor="start">司徒：教—敷五典</text><text x="286" y="200" font-size="13" fill="#25211D" text-anchor="start">宗伯：礼—和上下</text><text x="286" y="225" font-size="13" fill="#25211D" text-anchor="start">司马：政—统六师</text><text x="286" y="250" font-size="13" fill="#25211D" text-anchor="start">司寇：禁—诘奸慝</text><text x="286" y="275" font-size="13" fill="#25211D" text-anchor="start">司空：土—时地利</text>
+<rect x="508" y="92" width="218" height="234" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<rect x="508" y="92" width="218" height="30" fill="#DCD5C8"/>
+<text x="522" y="113" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">官箴之要</text>
+<text x="524" y="150" font-size="13" fill="#25211D" text-anchor="start">慎乃出令，令出惟行</text><text x="524" y="175" font-size="13" fill="#25211D" text-anchor="start">以公灭私，民其允怀</text><text x="524" y="200" font-size="13" fill="#25211D" text-anchor="start">学古入官，议事以制</text><text x="524" y="225" font-size="13" fill="#25211D" text-anchor="start">功崇惟志，业广惟勤</text><text x="524" y="250" font-size="13" fill="#25211D" text-anchor="start">位不期骄，禄不期侈</text><text x="524" y="275" font-size="13" fill="#25211D" text-anchor="start">推贤让能，庶官乃和</text>
+<text x="32" y="356" font-size="12" fill="#7C6D5C" text-anchor="start">制治于未乱，保邦于未危</text>
+</svg>

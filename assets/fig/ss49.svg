@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 256" role="img">
+<title>君陈五节：从看人到让人</title>
+<desc>五节自「人」始、至「名」终；风草为枢纽，末二节是刑赏之中与功名之让。</desc>
+<rect x="0" y="0" width="760" height="256" fill="#FCFAF6"/>
+<text x="32" y="44" font-size="17" fill="#994433" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" letter-spacing="2">君陈五节：从看人到让人</text><line x1="32" y1="56" x2="728" y2="56" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="32" y="100" width="118" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="91" y="142" font-size="16" fill="#994433" text-anchor="middle">孝友</text>
+<text x="91" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">命官之由｜克施有政</text>
+<line x1="154" y1="148" x2="172" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="176" y="100" width="118" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="235" y="142" font-size="16" fill="#994433" text-anchor="middle">明德</text>
+<text x="235" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">黍稷非馨｜惟馨</text>
+<line x1="298" y1="148" x2="316" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="320" y="100" width="118" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="379" y="142" font-size="16" fill="#994433" text-anchor="middle">风草</text>
+<text x="379" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">尔惟风｜下民惟草</text>
+<line x1="442" y1="148" x2="460" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="464" y="100" width="118" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="523" y="142" font-size="16" fill="#994433" text-anchor="middle">中罚</text>
+<text x="523" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">勿辟勿宥｜惟厥中</text>
+<line x1="586" y1="148" x2="604" y2="148" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ar)"/>
+<rect x="608" y="100" width="118" height="96" rx="2" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="667" y="142" font-size="16" fill="#994433" text-anchor="middle">归善</text>
+<text x="667" y="172" font-size="12" fill="#7C6D5C" text-anchor="middle">告于内｜名归我后</text>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7C6D5C"/></marker></defs>
+<text x="32" y="230" font-size="12" fill="#7C6D5C" text-anchor="start">宽而有制，从容以和　·　必有忍，其乃有济；有容，德乃大</text>
+</svg>
