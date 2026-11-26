@@ -5,6 +5,7 @@ plugins {
 android {
     namespace 'com.runze.daokedaoshangshu'
     compileSdk 35
+    buildToolsVersion "35.0.0"
 
     signingConfigs {
         if (project.hasProperty('RELEASE_STORE_FILE')) {
@@ -21,8 +22,8 @@ android {
         applicationId 'com.runze.daokedaoshangshu'
         minSdk 21
         targetSdk 35
-        versionCode 8
-        versionName '0.3.8'
+        versionCode 9
+        versionName '0.3.9'
     }
 
     buildTypes {

@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 data/raw/
 *.zip
+
+.toolchain/
+dist/apk-shangshu/.gradle/
+dist/apk-shangshu/build/
+dist/apk-shangshu/app/build/

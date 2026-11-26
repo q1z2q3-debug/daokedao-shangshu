@@ -1,3 +1,11 @@
+## v0.3.9 · 2026-11-26（APK 换标：简尺方印，五档与自适应图标同包）
+
+- 新图标主图 `assets/icon/shangshu-icon-master.png`：1024×1024，裁去右下「元宝 AI生成」水印，保留暖纸底、墨色梯形简尺、三枚方形刻度与赭红方印。
+- Android 资源：`mipmap-mdpi/hdpi/xhdpi/xxhdpi/xxxhdpi` 传统图标 48/72/96/144/192，`ic_launcher_foreground` 108/162/216/324/432；新增 `mipmap-anydpi-v26/ic_launcher.xml` 与 `ic_launcher_round.xml`，背景色 `#F5E5C8`，Manifest 补 `roundIcon`。
+- 工程 `versionCode 9 / versionName '0.3.9'`；本机 debug 产物 643 KB，SHA256 `43519b44…`。
+- CI 产物改 `道可道之尚书-v0.3.9.apk`；站点 APK 行改指 `docs/dl/shangshu-v0.3.9.apk`。
+- 注意：v0.3.8 为 CI debug 签名，本包为本机 debug 签名，证书不同，旧版覆盖安装会冲突，需先卸载旧版。
+
 ## v0.3.8 · 2026-11-25（追加：APK 升包，校勘台同包）
 
 - `dist/apk-shangshu` 资产重建：`assets/index.html` 换为 v0.3.8 阅读版（1.34 MB，58 篇 + 七附录，SVG 全内联），新增 `assets/jiaokan.html`（250 KB，七面板 429 核记位）。
