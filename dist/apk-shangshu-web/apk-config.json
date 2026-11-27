@@ -1,0 +1,42 @@
+{
+  "slug": "shangshu",
+  "out": "daokedao-shangshu",
+  "package": "com.runze.daokedaoshangshu",
+  "app_name": "道可道之尚书",
+  "version_code": 38,
+  "version_name": "0.3.8",
+  "docs": "docs",
+  "entry": "index.html",
+  "copy_files": [
+    "index.html",
+    "book.html",
+    "book-full.html",
+    "jiaokan.html"
+  ],
+  "copy_dirs": [
+    "ch",
+    "fig",
+    "fu"
+  ],
+  "site_prefixes": [
+    "https://q1z2q3-debug.github.io/daokedao-shangshu/",
+    "https://q1z2q3-debug.github.io/daokedao-shangshu",
+    "/daokedao-shangshu/"
+  ],
+  "bare_index_fix": true,
+  "strip_blocks": [
+    [
+      "<!-- apk-dl:start -->",
+      "<!-- apk-dl:end -->"
+    ]
+  ],
+  "strip_hrefs": [
+    "sitemap.xml",
+    "dl/shangshu-v0.3.9.apk",
+    "dl/shangshu-offline.html",
+    "sitemap.xml"
+  ],
+  "strip_link_regex": [
+    "fonts/css2"
+  ]
+}

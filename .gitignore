@@ -9,3 +9,12 @@ data/raw/
 dist/apk-shangshu/.gradle/
 dist/apk-shangshu/build/
 dist/apk-shangshu/app/build/
+
+# APK 工程
+dist/apk-shangshu-web/build/
+dist/apk-shangshu-web/.debug.keystore
+dist/apk-shangshu-web/app/src/main/assets/
+dist/apk-shangshu-web/.gradle/
+dist/apk-shangshu-web/local.properties
+dist/*.apk
+*.idsig
