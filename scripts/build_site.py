@@ -91,6 +91,16 @@ FAVICON = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
 font-family="'Noto Serif SC','Songti SC',serif">书</text></svg>"""
 
 
+APK_BLOCK = """
+<!-- apk-dl:start -->
+<div style="max-width:720px;margin:28px auto;padding:18px 20px;border:1px solid #d9cfbf;border-radius:10px;font-family:inherit">
+  <p style="margin:0 0 8px;font-weight:600">安卓安装包 · 离线全本（2.2 MB）</p>
+  <p style="margin:0"><a href="dl/daokedao-shangshu-v0.3.8.apk" style="color:#94433a">下载 APK</a>　·　<a href="dl/">下载目录（含校验值与历代存档入口）</a>　·　<a href="dl/SHA256SUMS.txt">校验值 SHA256</a>　·　道可道之尚书 v0.3.8，零权限，断网可读。</p>
+</div>
+<!-- apk-dl:end -->
+"""
+
+
 def shell(title, desc, body, canonical="", prefix=""):
     can = '<link rel="canonical" href="%s">' % canonical if canonical else ""
     from urllib.parse import quote
@@ -406,7 +416,7 @@ def build_index():
 </div>
 <h2>离线与移动<small>随身读，不联网也全</small></h2>
 <div class="rows">
-  <div class="row"><div class="kk">Android</div><div class="vv"><a href="dl/shangshu-v0.3.9.apk">尚書 APK　图标版 v0.3.9（643 KB）</a>　WebView 离线壳，装后开卷即读；内容为全書五十八篇、七件附录，另带<b>校勘台</b>（右下角悬浮入口，511 条账目可筛可勾），不取网络。</div></div>
+  <div class="row"><div class="kk">Android</div><div class="vv"><a href="dl/daokedao-shangshu-v0.3.8.apk">尚書 APK　v0.3.8（2.2 MB，自适应图标）</a>　WebView 离线壳，装后开卷即读；内容为全書五十八篇、七件附录，另带<b>校勘台</b>（右下角悬浮入口，511 条账目可筛可勾），不取网络。</div></div>
   <div class="row"><div class="kk">单文件</div><div class="vv"><a href="dl/shangshu-offline.html">全書 離線版 HTML（1.3 MB）</a>　一个文件、零外链，下载后双击即读，亦可拷入平板。</div></div>
 </div>
 <a class="btn" href="book.html">从卷首读起（序 · 封面 · 扉页 · 前言）</a>
@@ -421,10 +431,11 @@ def build_index():
 """ % (nj, ng, total, len(WRITTEN), VERSION, DATE, len(WRITTEN), toc_items(), fu_items(),
        "".join('<a href="%s">%s<small>通释读本</small></a>' % (u, n) for n, u in SERIES),
        len(WRITTEN), VERSION, DATE)
-    open(os.path.join(docs, "index.html"), "w", encoding="utf-8").write(
-        shell("润泽说 道可道之尚书 · 通释（阶段稿 正文 %d/58）｜《尚书》读本" % len(WRITTEN),
+    _idx = shell("润泽说 道可道之尚书 · 通释（阶段稿 正文 %d/58）｜《尚书》读本" % len(WRITTEN),
               "《尚书》通释阶段稿：底本五十八篇全部定稿（24,849 字），正文已成稿 %d 篇并发布，其余在建；今文二十八篇正经、古文二十五篇存疑别录。底本《尚书正义》通行本。" % len(WRITTEN),
-              body, SITE + "/"))
+              body, SITE + "/")
+    _idx = _idx.replace("</body>", APK_BLOCK + "</body>")
+    open(os.path.join(docs, "index.html"), "w", encoding="utf-8").write(_idx)
 
 
 def build_book():
@@ -522,7 +533,7 @@ def build_meta(pages):
         if f.endswith(".svg"):
             shutil.copy(os.path.join(figs, f), os.path.join(docs, "fig", f))
 
-    urls = [""] + ["book.html"] + [c["page"] for c in WRITTEN] + pages + \
+    urls = [""] + ["book.html"] + ["dl/"] + [c["page"] for c in WRITTEN] + pages + \
         ["fig/" + c["id"].lower() + ".svg" for c in WRITTEN
          if os.path.exists(os.path.join(figs, c["id"].lower() + ".svg"))]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
